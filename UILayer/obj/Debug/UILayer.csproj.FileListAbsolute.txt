@@ -1,0 +1,7 @@
+D:\JenPro\OEM\UILayer\bin\Debug\UILayer.exe.config
+D:\JenPro\OEM\UILayer\bin\Debug\UILayer.exe
+D:\JenPro\OEM\UILayer\bin\Debug\UILayer.pdb
+D:\JenPro\OEM\UILayer\obj\Debug\UILayer.csproj.AssemblyReference.cache
+D:\JenPro\OEM\UILayer\obj\Debug\UILayer.csproj.CoreCompileInputs.cache
+D:\JenPro\OEM\UILayer\obj\Debug\UILayer.exe
+D:\JenPro\OEM\UILayer\obj\Debug\UILayer.pdb
